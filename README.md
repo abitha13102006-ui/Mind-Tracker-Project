@@ -100,14 +100,3 @@ node server.js
 
 ---
 
-## 👩‍💻 Author
-
-Abitha  
-
----
-
-## 📜 License
-
-This project is for educational purposes.
-
----
